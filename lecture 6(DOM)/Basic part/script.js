@@ -1,0 +1,11 @@
+alert("Hello!");
+console.log("Hello, console!");
+window.console.log("Hello");
+console.dir(window);
+console.dir(document);
+console.dir(document.body);
+console.log("it is a child of object:", document.body);
+console.dir(document.head);
+console.log("it is a child of object:", document.head);
+console.dir(document.body.childNodes[1]);
+document.body.childNodes[3].innerText = "change with javaScript";
