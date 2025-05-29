@@ -1,0 +1,10 @@
+.box {
+  height: auto;
+  width: auto;
+  border: 2px solid black;
+  margin: 5px;
+  text-align: justify;
+  color: blue;
+  background-color:floralwhite;
+  padding: auto;
+}

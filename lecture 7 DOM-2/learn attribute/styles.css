@@ -1,0 +1,16 @@
+#box {
+  color: blue;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: lightgray;
+}
+.newClass {
+  color: blue;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: lightgray;
+}
