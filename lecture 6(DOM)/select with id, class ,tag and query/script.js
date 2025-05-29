@@ -30,6 +30,13 @@ console.log(allCls);
 
 //Query Selector with Id
 
-let Id = document.querySelector("#headingId"); //Returns  1st element
+let Id = document.querySelector("#b1"); //Returns  1st element
 console.dir(Id);
 console.log(Id);
+
+//search child
+console.dir(document.body.firstChild);
+
+//DOM properties
+let div = document.querySelector("div");
+console.dir("div");
